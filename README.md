@@ -9,6 +9,6 @@
 
   ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Luis Angel Flores</sub>](https://github.com/angelfloresmoran) |
+[<img src="https://avatars.githubusercontent.com/angelfloresmoran" width=115><br><sub>Luis Angel Flores</sub>](https://github.com/angelfloresmoran)
  
 
